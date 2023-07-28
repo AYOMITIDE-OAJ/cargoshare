@@ -1,4 +1,4 @@
-# carbo
+# cargoShare
 
 Carbo An Online Mobility as a Service Application that Enabling Users ride-hail Available rides based on Location
 
@@ -8,7 +8,7 @@ Carbo An Online Mobility as a Service Application that Enabling Users ride-hail 
 
 Features Include
 
-* Dashboar and Banner Screen
+* Dashboard and Banner Screen
 * Account Creation (Login/Signup)
 * Setup Destination and Pickup Location Screen
 * Onboarding Screen
