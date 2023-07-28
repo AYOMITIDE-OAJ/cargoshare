@@ -3,7 +3,7 @@
 Carbo An Online Mobility as a Service Application that Enabling Users ride-hail Available rides based on Location
 
 <P align="center">
-  <img src="/blob/main/screenshot/screenshot_featuregraphic.png"/>
+  <img src="https://github.com/AYOMITIDE-OAJ/cargoshare/blob/main/screenshot/screenshot_featuregraphic.png"/>
 </p>
 
 Features Include
@@ -61,9 +61,7 @@ Go to [release]("https://github.com/AYOMITIDE-OAJ/cargoshare/releases") to downl
     <td>
       <img src="https://github.com/AYOMITIDE-OAJ/cargoshare/blob/main/screenshot/cargoshare_09.png" width="250" height="500"/>  
      </td> 
-      <td>
-      <img src="" width="250" height="500"/>  
-     </td> 
+    
    </tr>
   
 </table>
